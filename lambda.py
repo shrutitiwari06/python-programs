@@ -34,7 +34,7 @@ print(func1(5))
 
 print(list(map(lambda x:pow(x,3), list1)))
 
-str1= ['dog', 'cat']
+str1= ['hii', 'hello']
 print(list(map(lambda x: x.upper(), str1)))
 
 age=[5,6,7,8,9,10,11]
