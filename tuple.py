@@ -8,13 +8,13 @@ thistuple=(1,2,3),"shruti",(5,6,7),[5,9,8]
 print(thistuple[0])
 print(thistuple[3])
 print(thistuple)
-thistuple=23,'CSIT',8
+thistuple=53,'CSIT',9
 print(thistuple)
 a,b,c=thistuple
 print(a)
 print(b)
 print(c)
-a=23
+a=53
 b='CSIT'
 c=87
 print(a)
