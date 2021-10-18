@@ -1,7 +1,3 @@
-  print("hello")
-obj=person()
-print(obj.age)
-obj.greet()
 
 class pk:
     def __init__(self,name,age):
